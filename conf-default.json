@@ -1,0 +1,28 @@
+{
+  "confData": [{
+    "name": "xxx域名",
+    "ali": {
+      "accessKeyId": "xxx",
+      "accessKeySecret": "xxx",
+      "domain": "xxx.com",
+      "cdn": {
+        "exclude": [
+          "不希望更新的cdn域名"
+        ]
+      }
+    },
+    "contact": [
+      "mailto:admin@zl771.cn"
+    ],
+    "identifiers": [
+      "xxx.com",
+      "*.xxx.com"
+    ],
+    "cName": "xxx.com"
+  }],
+  "accountUrl": false,
+  "contact": [
+    "mailto:admin@zl771.cn"
+  ],
+  "sleepTime": 60000
+}
